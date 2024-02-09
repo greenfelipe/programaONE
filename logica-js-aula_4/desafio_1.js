@@ -1,0 +1,1 @@
+console.log('Bem vinde à minha página web!');
